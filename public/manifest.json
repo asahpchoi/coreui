@@ -1,15 +1,15 @@
 {
-  "short_name": "CoreUI-React",
-  "name": "CoreUI-React sample",
+  "name": "PWA demo",
+  "short_name": "Demo",
+  "start_url": "index.html",
   "icons": [
     {
-      "src": "./assets/img/favicon.png",
-      "sizes": "100x100",
+      "src": "https://www.scoms.com/media/12178/jobs.png",
+      "sizes": "192x192",
       "type": "image/png"
     }
   ],
-  "start_url": ".",
+  "background_color": "#3E4EB8",
   "display": "standalone",
-  "theme_color": "#000000",
-  "background_color": "#ffffff"
+  "theme_color": "#2E3AA1"
 }
